@@ -1,0 +1,1 @@
+This has the HTML coding portion and has both the PHP portions in part2phpcode.
